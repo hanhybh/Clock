@@ -1,0 +1,9 @@
+Record=TopLevelDocument|FileName=BUTTON.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=BUTTON.SchDoc|FileName=BUZZER.SchDoc|SheetNumber=9
+Record=NoMainPathDocument|SourceDocument=BUTTON.SchDoc|FileName=DHT11.SchDoc|SheetNumber=8
+Record=NoMainPathDocument|SourceDocument=BUTTON.SchDoc|FileName=ESP8266.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=BUTTON.SchDoc|FileName=IR18T38.SchDoc|SheetNumber=7
+Record=NoMainPathDocument|SourceDocument=BUTTON.SchDoc|FileName=KHOI_HA_APP.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=BUTTON.SchDoc|FileName=LED_7SEG.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=BUTTON.SchDoc|FileName=RELAY.SchDoc|SheetNumber=6
+Record=NoMainPathDocument|SourceDocument=BUTTON.SchDoc|FileName=STM_32.SchDoc|SheetNumber=1
